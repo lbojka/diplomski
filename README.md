@@ -24,3 +24,6 @@ Aplikacija se pokreće unosom komande:
 ```
 streamlit run app.py
 ```
+
+### Disclaimer
+Dokument app.ipynb je tu za lakšu vizualizaciju podataka, nije zamišljen za pokretanje web aplikacije zbog kompatibilnosti sa Streamlit bibliotekom, za to služi app.py :) .
